@@ -21,7 +21,7 @@ public class MariumAquarium extends JComponent implements Runnable
 	private static final String WINDOW_TITLE = "Marium Aquarium";
 
 	private static final Dimension AQUARIUM_SIZE = new Dimension(800, 600);
-	private static final int DEFAULT_TOTAL_FISH = 25;
+	private static final int DEFAULT_TOTAL_FISH = 100;
 	private static final int SLEEP_TIME = 100;
 	private static final int INSET = 20;
 
